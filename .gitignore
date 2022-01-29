@@ -139,3 +139,6 @@ pg_creds.cred
 
 # Other stuff
 *.DS_Store
+
+# Dirs
+/research
