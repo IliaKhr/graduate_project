@@ -116,6 +116,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+setenv.sh
 
 # Spyder project settings
 .spyderproject
@@ -141,4 +142,3 @@ pg_creds.cred
 *.DS_Store
 
 # Dirs
-/research
